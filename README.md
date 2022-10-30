@@ -77,7 +77,7 @@ spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
 	<td>1.18.24</td>
 </tr>
 <tr>
-	<td>my sql driver</td>
+	<td>PostgreSQL Driver</td>
 	<td></td>
 </tr><tr>
 	<td>Spring Security</td>
